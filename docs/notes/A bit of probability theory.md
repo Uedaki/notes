@@ -5,7 +5,9 @@
 #### Definitions
 
 The cumulative distribution function (cdf) is the probability that a random variable, $X$, will take a value less or equal to $x$.
-$$P(x) = P_r \{ X \le x \}$$
+$$
+P(x) = P_r \{ X \le x \}
+$$
 
 !!! note "$P(x)$ can also be written as $F(x)$"
 
