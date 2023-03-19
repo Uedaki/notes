@@ -38,14 +38,14 @@ and the join distribution function
 
 $$p(x^1, \dotsc, x^s) = \frac{ \partial^s P }{\partial x^1 \dotsb \partial x^s}(x^1, \dotsc, x^s)$$
 
-For any Lebesgue measurable subset $D\sub\reals^s$, we have the following relationship:
+For any Lebesgue measurable subset $D\subseteq\mathbb{R}^s$, we have the following relationship:
 
 $$P_r \{ x \in D \} = \int_D p(x_1, \dotsc, x_s) dx^1 \dotsb dx^s$$
 
 !!! note "Lebesgue measure"
     explain what it is
 
-More generally, for a random variable $X \in \Omega$, its probability measure (also known as a probability distribution or distribution) is a measure function $P$ such that for any measurable set $D\sub\Omega$, we have
+More generally, for a random variable $X \in \Omega$, its probability measure (also known as a probability distribution or distribution) is a measure function $P$ such that for any measurable set $D\subseteq\Omega$, we have
 
 $$P(D) = P_r \{ X \in D \}$$
 
@@ -56,7 +56,7 @@ The probability that $X \in D$ can be obtained by integrating $p(x)$ over the gi
 $$P(D) = \int_D p(x) d\mu(x)$$
 
 ???+ abstract "Radon-Nikodym theorem"
-    The Radon–Nikodym theorem involves a measurable space $(X, \Sigma)$ on which two $\sigma$-finite measures are defined, $\mu$ and $\nu$. It states that, if $\nu \ll \mu$ (that is, if $\nu$ is absolutely continuous with respect to $\mu$), then there exists a $\Sigma$-measurable function $f(X) \in \Reals^+$ such that for any measurable set $D \sube X$
+    The Radon–Nikodym theorem involves a measurable space $(X, \Sigma)$ on which two $\sigma$-finite measures are defined, $\mu$ and $\nu$. It states that, if $\nu \ll \mu$ (that is, if $\nu$ is absolutely continuous with respect to $\mu$), then there exists a $\Sigma$-measurable function $f(X) \in \mathbb{R}^+$ such that for any measurable set $D \subseteq X$
     
     $$v(D) = \int_D f(X) d\mu$$
 
