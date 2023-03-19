@@ -30,13 +30,13 @@ $$P(x^1, \dotsc, x^s) = P_r \{ X^i \le x^i \text{ for all } i = 1, \dotsc, s \}$
 and the join distribution function
 $$p(x^1, \dotsc, x^s) = \frac{ \partial^s P }{\partial x^1 \dotsb \partial x^s}(x^1, \dotsc, x^s)$$
 
-For any Lebesgue measurable subset $D \sub \reals^s$, we have the following relationship:
+For any Lebesgue measurable subset $D\sub\reals^s$, we have the following relationship:
 $$P_r \{ x \in D \} = \int_D p(x_1, \dotsc, x_s) dx^1 \dotsb dx^s$$
 
 !!! note "Lebesgue measure"
     explain what it is
 
-More generally, for a random variable $X \in \Omega$, its probability measure (also known as a probability distribution or distribution) is a measure function $P$ such that for any measurable set $D \sub \Omega$, we have
+More generally, for a random variable $X \in \Omega$, its probability measure (also known as a probability distribution or distribution) is a measure function $P$ such that for any measurable set $D\sub\Omega$, we have
 $$P(D) = P_r \{ X \in D \}$$
 
 !!! note "A probability measure must satisfy $P(\Omega) = 1$"
