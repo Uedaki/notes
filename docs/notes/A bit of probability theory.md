@@ -41,14 +41,16 @@ $$P(D) = P_r \{ X \in D \}$$
 
 !!! note "A probability measure must satisfy $P(\Omega) = 1$"
 
-The corresponding density function $p$ is defined as the Radon-Nikodym derivative
+The probability that $X \in D$ can be obtained by integrating $p(x)$ over the given region $D$ using the Radon-Nikodym theorem.
+$$P(D) = \int_D p(x) d\mu(x)$$
+
+???+ abstract "Radon-Nikodym theorem"
+    The Radon–Nikodym theorem involves a measurable space $(X, \Sigma)$ on which two $\sigma$-finite measures are defined, $\mu$ and $\nu$. It states that, if $\nu \ll \mu$ (that is, if $\nu$ is absolutely continuous with respect to $\mu$), then there exists a $\Sigma$-measurable function $f(X) \in \Reals^+$ such that for any measurable set $D \sube X$
+    $$v(D) = \int_D f(X) d\mu$$
+
+The can then derived the last equation to get the density function $p$.
 $$p(x) = \frac{dP}{d\mu}(x)$$
 
-!!! note "Radon-Nikodym theorem"
-    explain it
-
-The probability that $X \in D$ can be obtained by integrating $p(x)$ over the given region $D$.
-$$P(D) = \int_D p(x) d\mu(x)$$
 
 ## Expected value and variance
 
