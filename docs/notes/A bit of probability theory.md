@@ -5,16 +5,17 @@
 #### Definitions
 
 The cumulative distribution function (cdf) is the probability that a random variable, $X$, will take a value less or equal to $x$.
-$$
-P(x) = P_r \{ X \le x \}
-$$
+
+$$P(x) = P_r \{ X \le x \}$$
 
 !!! note "$P(x)$ can also be written as $F(x)$"
 
 The probability density function (pdf) is the probability that a random variable, $X$, will take a value $x$. In the case of continuous values, the pdf represent the probability per unit length that a random variable, $X$, will be closer to the sample $x$ compared to the other sample.
 
 The cdf can also be expressed as the probability of all the event where $X$ is less or equal to $x$ which can be expressed with the pdf:
+
 $$P(x) = \int_0^x p(X)dX$$
+
 - $p(X)$ is the pdf of the event $X$
 - $X$ is a random event
 - $dX$ is the rate of change of the random event $X$
