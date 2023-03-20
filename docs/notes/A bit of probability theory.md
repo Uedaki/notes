@@ -67,7 +67,7 @@ $$p(x) = \frac{dP}{d\mu}(x)$$
 
 ## Expected value and variance
 
-##### Expected value
+#### Expected value
 The expected value of a random variable with finite number of outcomes is a weighted average of all the possible outcomes. For a continuum of possible outcomes, the expected value is defined by integration.
 The expected value or expectation of a random variable $Y = f(X)$ is defined as
 
@@ -76,19 +76,19 @@ $$E[Y] = \int_\Omega f(x)p(x)d\mu(x)$$
 !!! note "Rendering paper tend to simplify this equation by removing $p(x)$"
     show the simplification
 
-##### Variance
+#### Variance
 The variance is a measure of dispersion which means it is a measure of how far a set of numbers is spread out from their average value.
 
 $$V[Y] = E \left[(Y - E[Y])^2 \right]$$
 
 It is assume that the expected value and variance of every random variable exist (i..e. the corresponding integral is finite).
 
-##### Standard deviation
+#### Standard deviation
 The standard deviation of a random variable (also known as the root mean square error), which is simply the square root of its variance:
 
 $$\sigma[Y] = \sqrt{V[Y]}$$
 
-##### Properties
+#### Properties
 
 For any constant $\alpha$:
 
