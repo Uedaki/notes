@@ -105,9 +105,17 @@ The following identity holds only if the variables $Y_i$ are independent:
 - $$V \left[\sum_{i=1}^N Y_i \right] = \sum_{i=1}^N V [Y_i]$$
 
 !!! note "Simplification of the variance"
-    From these rules, we can derive a simpler expression for the variance:
+    From these rules, we can derive a simpler expression for the variance (remember that $E[Y]$ is a constant)
     
-    $$V[Y] = E \left[(Y - E[Y])^2 \right] = E \left[Y^2 \right] - E[Y]^2$$
+    $$V[Y] = E \left[(Y - E[Y])^2 \right]$$
+
+    $$V[Y] = E \left[Y^2 - 2Y \times E[Y] + E[Y]^2 \right]$$
+    
+    $$V[Y] = E[Y^2] - E[2Y \times E[Y]] + E[E[Y]^2]$$
+    
+    $$V[Y] = E[Y^2] - 2E[Y]^2 + E[Y]^2$$
+    
+    $$V[Y] = E[Y^2] - E[Y]^2$$
 
 ## Conditional and marginal densities
 
