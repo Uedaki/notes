@@ -42,7 +42,7 @@ For any Lebesgue measurable subset $D\subseteq\mathbb{R}^s$, we have the followi
 
 $$P_r \{ x \in D \} = \int_D p(x_1, \dotsc, x_s) dx^1 \dotsb dx^s$$
 
-!!! note "Lebesgue measure"
+???+ abstract "Lebesgue measure"
     explain what it is
 
 More generally, for a random variable $X \in \Omega$, its probability measure (also known as a probability distribution or distribution) is a measure function $P$ such that for any measurable set $D\subseteq\Omega$, we have
@@ -67,20 +67,50 @@ $$p(x) = \frac{dP}{d\mu}(x)$$
 
 ## Expected value and variance
 
-https://openstax.org/books/statistics/pages/4-2-mean-or-expected-value-and-standard-deviation
-https://en.wikipedia.org/wiki/Expected_value
-https://www.statisticshowto.com/probability-and-statistics/expected-value/
+##### Expected value
+The expected value of a random variable with finite number of outcomes is a weighted average of all the possible outcomes. For a continuum of possible outcomes, the expected value is defined by integration.
+The expected value or expectation of a random variable $Y = f(X)$ is defined as
+
+$$E[Y] = \int_\Omega f(x)p(x)d\mu(x)$$
+
+!!! note "Rendering paper tend to simplify this equation by removing $p(x)$"
+    show the simplification
+
+##### Variance
+The variance is a measure of dispersion which means it is a measure of how far a set of numbers is spread out from their average value.
+
+$$V[Y] = E \left[(Y - E[Y])^2 \right]$$
+
+It is assume that the expected value and variance of every random variable exist (i..e. the corresponding integral is finite).
+
+##### Standard deviation
+The standard deviation of a random variable (also known as the root mean square error), which is simply the square root of its variance:
+
+$$\sigma[Y] = \sqrt{V[Y]}$$
+
+##### Properties
+
+For any constant $\alpha$:
+
+- $$E[aY] = aE[Y]$$
+
+- $$V[aY] = a^2 V[Y]$$
+
+For any random variables $Y_1, \dotsc , Y_N$:
+
+- $$E \left[ \sum_{i=1}^N Y_i \right] = \sum_{i=1}^N E[Y_i]$$
+
+The following identity holds only if the variables $Y_i$ are independent:
+
+- $$V \left[\sum_{i=1}^N Y_i \right] = \sum_{i=1}^N V [Y_i]$$
+
+!!! note "Simplification of the variance"
+    From these rules, we can derive a simpler expression for the variance:
+    
+    $$V[Y] = E \left[(Y - E[Y])^2 \right] = E \left[Y^2 \right] - E[Y]^2$$
 
 ## Conditional and marginal densities
 
 https://machinelearningmastery.com/joint-marginal-and-conditional-probability-for-machine-learning/
 https://en.wikipedia.org/wiki/Conditional_probability_distribution
 https://study.com/learn/lesson/marginal-vs-conditional-probability-distributions-differences-rules-examples.html
-
-
-
-
-
-
-https://en.wikipedia.org/wiki/Probability_density_function
-https://www.graduatetutor.com/statistics-tutor/probability-density-function-pdf-and-cumulative-distribution-function-cdf/
