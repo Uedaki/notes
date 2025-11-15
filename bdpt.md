@@ -6,13 +6,13 @@ One of the most common algorithm to solve the problem of global illumination in 
 
 Bi-directional path tracing (BDPT) is a technique introduced in 1993, by Lafortune, and improved by Veach in 1994. The basic idea is to generate at the same time, paths from the camera and a set of selected light sources. All vertices on their respective paths are then connected using shadow rays and the appropriate contributions are added to the film. This technique was originally created to improve the convergence of indoor scene but it is also useful for rendering difficult light paths like caustics.
 
-![](./bdpt-example.svg)
+![](assets/bdpt-example.svg)
 
 ## Outline of the algorithm
 
 The bi-directional path tracing algorithm is in reality a collection of multiple estimators. The two obvious one are the unidirectional technique coming from both the eye and the light. And as shown is the figure below, there is a  third estimator called bidirectional vertex connection which take care of connecting the vertices of the two unidirectional techniques to find light contribution.
 
-![](./bdpt-path.svg)
+![](assets/bdpt-path.svg)
 
 ### Unidirectional sampling
 
@@ -120,7 +120,7 @@ Color iteration()
 
 ## Photon mapping
 
-![](./mc-path.svg)
+![](assets/mc-path.svg)
 
 ## Reference
 - [Bi-Directional Path Tracing](https://www.cs.princeton.edu/courses/archive/fall03/cs526/papers/lafortune93.pdf), E. Lafortune, Y. Willems, 1993
