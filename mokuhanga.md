@@ -22,6 +22,8 @@ There are two possible arrangements on the yoko-ita that ensure uniform moisture
 |-|-|
 |The otosu arrangement involves stacking the sheets to be printed in an offset manner. One-third of each sheet should extend alternately on each side. And every fifth sheet should be placed in the center of the stack.|The hawasu arrangement consists of stacking the sheets to be printed on top of each other, but they must be slightly offset so that one centimeter of the bottom sheet protrudes.|
 
+The 2 arrangements have to be used depending of the phase the printer is in. The otosu arrangement is ideal for storage while the hawasu is ideal for printing. When starting printing, the arrangement should be reorganize to follow the hawasu method, and should remains in this arrangement for the duration of the work. It should be put back in the otosu arrangement when doing a long break or at the end of the day. It is possible to leave the paper uncover while printing with the hawasu arrangement but it should be covered as soon as the work is interrupted, even for a small break.
+
 #### Drying paper
 
 The best method for drying paper is to place a sheet of newspaper between each print or every other print for one hour. After that, nearly 50% of the moisture will have disappeared. Next, the prints should be interleaved with sheets of cardboard, every 1 or 2, and a weight should be placed on top. The prints should be kept between the cardboard sheets for 3 to 4 days.
