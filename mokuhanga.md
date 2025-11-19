@@ -16,17 +16,19 @@ If we use dry paper for printing, we run the risk of the paper absorbing water a
 
 To moisten a stack of sheets for prints, we must apply water, preferably using a mizubake (水刷毛?), alternating between sheets. They must then be stacked, alternating between wet and dry sheets, before placing a board on top with a weight. The stack should be left for 1 to 2 hours to allow the water to soak into all the sheets. The sheets should then be placed on a yoko-ita (横板).
 
-There are two possible arrangements on the yoko-ita that ensure uniform moisture on each sheets, called otosu (落とす) and hawasu (?). In both cases, the yoko-ita must be evenly covered with several sheets of moistened paper. The sheets of printing paper are placed on the moistened paper before being covered with thick paper to which more water is applied, then with a wet flannel or cotton cloth. The sheets for prints must remain in this configuration for at least one night.
+There are two possible arrangements on the yoko-ita that ensure uniform moisture on each sheets, called otosu (落とす) and hawasu (這わせる?). In both cases, the yoko-ita must be evenly covered with several sheets of moistened paper. The sheets of printing paper are placed on the moistened paper before being covered with thick paper to which more water is applied, then with a wet flannel or cotton cloth. The sheets for prints must remain in this configuration for at least one night.
 
-The otosu arrangement involves stacking the sheets to be printed in an offset manner. One-third of each sheet should extend alternately on each side. And every fifth sheet should be placed in the center of the stack.
-
-The hawasu arrangement consists of stacking the sheets to be printed on top of each other, but they must be slightly offset so that one centimeter of the bottom sheet protrudes.
+| <img src="assets/mkhg-otosu.svg" alt="drawing" width="400"/> | <img src="assets/mkhg-hawasu.svg" alt="drawing" width="400"/> |
+|-|-|
+|The otosu arrangement involves stacking the sheets to be printed in an offset manner. One-third of each sheet should extend alternately on each side. And every fifth sheet should be placed in the center of the stack.|The hawasu arrangement consists of stacking the sheets to be printed on top of each other, but they must be slightly offset so that one centimeter of the bottom sheet protrudes.|
 
 #### Drying paper
 
 The best method for drying paper is to place a sheet of newspaper between each print or every other print for one hour. After that, nearly 50% of the moisture will have disappeared. Next, the prints should be interleaved with sheets of cardboard, every 1 or 2, and a weight should be placed on top. The prints should be kept between the cardboard sheets for 3 to 4 days.
 
 If the prints are exposed to air too soon, this will cause wrinkles on the paper and it will be necessary to repeat the process of moistening and drying to remove them.
+
+!!! Question When doing some test, the paper showed small wrinkles after the first phase of drying. Is it expected? Maybe it is necessary to put a weight on top for the first drying phase or the paper was too dry after the first phase.
 
 ## Reference
 - [Japanese print-making; a handbook of traditional & modern techniques](https://archive.org/details/japaneseprintmak0000yosh), Yoshida Toshi, 1966
