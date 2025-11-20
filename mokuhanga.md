@@ -8,9 +8,7 @@ Steps:
 - Printing of the multiple copies
 - Finishing (drying the paper)
 
-### Paper
-
-#### Moistening paper 
+### Damping paper 
 
 If we use dry paper for printing, we run the risk of the paper absorbing water and expanding. This expansion can cause misalignment when printing multiple blocks. It is therefore common practice to moisten the paper before printing to ensure that it remains in a uniform condition and to facilitate the uniform adhesion of the pigment to the paper.
 
@@ -24,13 +22,18 @@ There are two possible arrangements on the yoko-ita that ensure uniform moisture
 
 The 2 arrangements have to be used depending of the phase the printer is in. The otosu arrangement is ideal for storage while the hawasu is ideal for printing. When starting printing, the arrangement should be reorganize to follow the hawasu method, and should remains in this arrangement for the duration of the work. It should be put back in the otosu arrangement when doing a long break or at the end of the day. It is possible to leave the paper uncover while printing with the hawasu arrangement but it should be covered as soon as the work is interrupted, even for a small break.
 
-#### Drying paper
+### Printing a block
+
+
+### Drying paper
 
 The best method for drying paper is to place a sheet of newspaper between each print or every other print for one hour. After that, nearly 50% of the moisture will have disappeared. Next, the prints should be interleaved with sheets of cardboard, every 1 or 2, and a weight should be placed on top. The prints should be kept between the cardboard sheets for 3 to 4 days.
 
 If the prints are exposed to air too soon, this will cause wrinkles on the paper and it will be necessary to repeat the process of moistening and drying to remove them.
 
-!!! Question When doing some test, the paper showed small wrinkles after the first phase of drying. Is it expected? Maybe it is necessary to put a weight on top for the first drying phase or the paper was too dry after the first phase.
+!!! Note At the end of the first phase of drying, the sheets of paper can show small wrinkles. They will disappear during the second phase.
+
+!!! Note The second phase doesnt have to necessarily last for 3 to 4 days. It ultimately depends on how moisten the sheets are. If they are only a little bit moisten, one day could suffice. But it is better to be on the safer side.
 
 ## Reference
 - [Japanese print-making; a handbook of traditional & modern techniques](https://archive.org/details/japaneseprintmak0000yosh), Yoshida Toshi, 1966
