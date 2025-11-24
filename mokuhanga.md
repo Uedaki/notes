@@ -24,6 +24,15 @@ The 2 arrangements have to be used depending of the phase the printer is in. The
 
 ### Printing a block
 
+While nothing is mentionned in Yoshida Toshi's book regarding preparing the block for printing, Laura Boswell recommend watering the block and to let it rest for few minutes to let the block absorb some water. She finish by passing a towel over the block to remove any excess of water.
+
+The printing process starts by leaving drops of paint onto the block before adding few drops of nori paste. After that both components should be mix on the block with a brush to create a thin layer of the mix on the entirety of the printing area.
+
+!!! Tips To avoid leaving paint stain on the block when doing the first print, it is suggested to start by putting nori paste before spreading it on the block to add a thin layer protecting the block.
+
+!!! Note When printing, it is not uncommon for the block to take times before it can give good results. For that reason, it is better to prepare more paper than necessary to give enough time for the block to come up to speed. 
+
+#### Common printing mistakes
 
 ### Drying paper
 
