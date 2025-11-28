@@ -1,5 +1,9 @@
 # Japanese printmaking
 
+## Carving
+
+!!! Tip When carving the registration mark, it seems better under the lines for the key blocks and over the mark for the color blocks. The idea is to always have the color blocks shifted in a way that is easy to fix by carving the registration mark. Otherwise, other meeting need to be used to fix the registration mark which are not ideal.
+
 ## Printing process
 
 Steps:
@@ -28,7 +32,7 @@ While nothing is mentionned in Yoshida Toshi's book regarding preparing the bloc
 
 The printing process starts by leaving drops of paint onto the block before adding few drops of nori paste. After that both components should be mix on the block with a brush to create a thin layer of the mix on the entirety of the printing area.
 
-!!! Tips To avoid leaving paint stain on the block when doing the first print, it is suggested to start by putting nori paste before spreading it on the block to add a thin layer protecting the block.
+!!! Tip To avoid leaving paint stain on the block when doing the first print, it is suggested to start by putting nori paste before spreading it on the block to add a thin layer protecting the block.
 
 !!! Note When printing, it is not uncommon for the block to take times before it can give good results. For that reason, it is better to prepare more paper than necessary to give enough time for the block to come up to speed. 
 
